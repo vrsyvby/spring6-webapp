@@ -6,7 +6,7 @@ public class HelloWorldController {
 
     @GetMapping("/world")
     public String helloWorld() {
-        System.out.println("Hello World - Manoj");
+        System.out.println("Hello World");
         return "Hello, World!";
     }
 }
