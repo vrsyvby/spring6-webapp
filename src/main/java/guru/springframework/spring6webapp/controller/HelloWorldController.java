@@ -1,3 +1,4 @@
+
 package guru.springframework.spring6webapp.controller;
 
 @RestController("/hello")
